@@ -11,8 +11,13 @@
 
 * CSS
 
+## Pagina Finalizada:
+
+### https://artur-santana.github.io/Aluraplus/
+
 ## Feito por:
 
 ### Artur Santana
 
 ### Linkedin: https://www.linkedin.com/in/artur-santana-23b95b1ab/
+
